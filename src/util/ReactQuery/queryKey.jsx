@@ -1,0 +1,2 @@
+export const GET_ALL_PRODUCT_API = 'GET_ALL_PRODUCT_API'
+export const SIGN_UP_USER_API = 'SIGN_UP_USER_API'
